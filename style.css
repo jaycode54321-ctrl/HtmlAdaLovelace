@@ -1,7 +1,21 @@
 body {
-  background-color: lightblue;
+background-color: green;
+}
+p4{
+font-size:25px
+}
+body2{
+font-size:25px
+}
+body3{
+font-size:25px
 }
 
-h1 {
-  color: darkblue;
+h1{
+text-align:center;
+}
+hr{
+border: 1px solid 
+margin-top:15px;
+margin-bottom:15px;
 }
